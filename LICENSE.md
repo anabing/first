@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Title</title>
     
-</body><style>
+    <style>
     .nav{
         width:100px;
         height:200px;
